@@ -1,0 +1,9 @@
+{
+  "id": "first id",
+  "color": "pink",
+  "wheels": [
+    {
+      "diameter":"15"
+    }
+  ]
+}
